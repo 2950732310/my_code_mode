@@ -1,0 +1,5 @@
+# Build directory contents (but keep the directory itself)
+build/*
+
+# Cache directory
+.cache/
